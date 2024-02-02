@@ -1,3 +1,5 @@
+This project implements a simple wish list in Angular to highlight its main feature. The app comprises a wish list with the ability to add, delete, filter and mark wishes as completed. The code was adapted from youtube video https://www.youtube.com/watch?v=JWhRMyyF7nc&t.
+
 # Wishlist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
